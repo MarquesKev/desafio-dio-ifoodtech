@@ -1,5 +1,5 @@
-var hero = "King Arthur"
-var level = "9400"
+let hero = "King Arthur"
+let level = "9400"
 
 if (level <= 1000){
     console.log("O herói de nome " + hero + " está no nível de Ferro.");
